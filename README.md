@@ -24,22 +24,20 @@
 
 
 <!-- GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=CN-WenYu&show_icons=true&theme=radical&include_all_commits=true" width="auto"></img>
-</p>
+## GitHub Activity Graph
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CN-WenYu&theme=radical&layout=compact" width="auto"></img>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=CN-WenYu&show_icons=true&theme=radical&include_all_commits=true" width="100%"></img>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CN-WenYu&theme=auto&hide_border=true" alt="GitHub Streak" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CN-WenYu&theme=radical&layout=compact" width="100%"></img>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=CN-WenYu&theme=auto&hide_border=true" alt="GitHub Streak"  width="100%"/></a>
 </p>
 
-<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=cn-wenyu&show-other-skills=true" width="auto"></img> -->
+## How to Reach me
 
-#### 📫 How to Reach me:
 <p align="left">
 <a href="2722620180@qq.com" target="blank">📮 mail</a>
 
@@ -51,25 +49,27 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CN-WenYu" alt="CN-WenYu" /></a>
 </p>
 
-#### Thanks for visiting my profile!
+## Thanks for visiting my profile!
 
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/CN-WenYu/count.svg">
 </p>
 
 counting of visitors to this page in this section started from April 15, 2025
+
 <p align="center">
-<a href="https://info.flagcounter.com/WIPQ"><img src="https://s01.flagcounter.com/countxl/WIPQ/bg_FFFFFF/txt_000000/border_000000/columns_5/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/WIPQ"><img src="https://s01.flagcounter.com/countxl/WIPQ/bg_FFFFFF/txt_000000/border_000000/columns_5/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"  width="100%"></a>
 </p>
 
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=CN-WenYu/CN-WenYu&type=Date)](https://star-history.com/#CN-WenYu/CN-WenYu&Date)
+<p align="center">
+<a href="https://star-history.com/#CN-WenYu/CN-WenYu&Date"><img src="https://api.star-history.com/svg?repos=CN-WenYu/CN-WenYu&type=Date"  width="100%"></a>
+</p>
 
+## Profile Views
 
-
-### Profile Views
 counting of visitors to this page in this section started from April 15, 2025
 
 ![](https://count.getloli.com/get/@CN-WenYu.github.readme)
