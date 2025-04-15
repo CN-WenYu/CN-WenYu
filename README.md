@@ -40,10 +40,9 @@
 
 <p align="left">
 <a href="2722620180@qq.com" target="blank">📮 mail</a>
+</p>
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
+<p align="center">Trophy: Github Profile Trophy</p>
 
 <p align="center"> 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CN-WenYu" alt="CN-WenYu" /></a>
